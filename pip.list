@@ -1,0 +1,5 @@
+pywin32
+pypiwin32
+numpy
+matplotlib
+opencv-python
